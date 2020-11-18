@@ -1,0 +1,11 @@
+C:\Users\prompt-laser\source\repos\SimulationDedicated\SimulationDedicated\bin\Debug\netcoreapp3.0\SimulationDedicated.exe
+C:\Users\prompt-laser\source\repos\SimulationDedicated\SimulationDedicated\bin\Debug\netcoreapp3.0\SimulationDedicated.deps.json
+C:\Users\prompt-laser\source\repos\SimulationDedicated\SimulationDedicated\bin\Debug\netcoreapp3.0\SimulationDedicated.runtimeconfig.json
+C:\Users\prompt-laser\source\repos\SimulationDedicated\SimulationDedicated\bin\Debug\netcoreapp3.0\SimulationDedicated.runtimeconfig.dev.json
+C:\Users\prompt-laser\source\repos\SimulationDedicated\SimulationDedicated\bin\Debug\netcoreapp3.0\SimulationDedicated.dll
+C:\Users\prompt-laser\source\repos\SimulationDedicated\SimulationDedicated\bin\Debug\netcoreapp3.0\SimulationDedicated.pdb
+C:\Users\prompt-laser\source\repos\SimulationDedicated\SimulationDedicated\obj\Debug\netcoreapp3.0\SimulationDedicated.csprojAssemblyReference.cache
+C:\Users\prompt-laser\source\repos\SimulationDedicated\SimulationDedicated\obj\Debug\netcoreapp3.0\SimulationDedicated.AssemblyInfoInputs.cache
+C:\Users\prompt-laser\source\repos\SimulationDedicated\SimulationDedicated\obj\Debug\netcoreapp3.0\SimulationDedicated.AssemblyInfo.cs
+C:\Users\prompt-laser\source\repos\SimulationDedicated\SimulationDedicated\obj\Debug\netcoreapp3.0\SimulationDedicated.dll
+C:\Users\prompt-laser\source\repos\SimulationDedicated\SimulationDedicated\obj\Debug\netcoreapp3.0\SimulationDedicated.pdb
